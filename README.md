@@ -29,9 +29,14 @@
 
 -🛡️ As a **Cybersecurity Engineer**, ask me about **penetration testing, vulnerability assessment, threat intelligence, and cloud security**, specifically:
 
-**Pentesting & Security Tools**: OpenVAS, Nessus, Burp Suite, Nmap, Metasploit
-**Red Team & Ethical Hacking:** Kali Linux, Parrot OS, Exploit Development
-**Cloud Security:** AWS IAM, VPC Security, Cloud Incident Response
+  - **Pentesting & Security Tools:**  
+    OpenVAS, Nessus, Burp Suite, Nmap, Metasploit  
+
+  - **Red Team & Ethical Hacking:**  
+    Kali Linux, Parrot OS, Exploit Development  
+
+  - **Cloud Security:**  
+    AWS IAM, VPC Security, Cloud Incident Response  
 
 -📫 Feel free to reach me out **ingciberseguridad.m@gmail.com**
 
