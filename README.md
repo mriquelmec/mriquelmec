@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">"Energy and persistence conquer all things"</h2></summary>
+    <summary><h2 style="display: inline-block">"Far and away the best prize that life offers is the chance to work hard at work worth doing."</h2></summary>
   </ul>
 </div>
 
