@@ -36,7 +36,7 @@
     Kali Linux, Parrot OS, Exploit Development  
 
   - **Cloud Security:**  
-    AWS IAM, VPC Security, Cloud Incident Response  
+    AWS IAM, VPC Security, Cloud Incident Response, **Microsoft Entra ID (IAM, Conditional Access), Microsoft Intune (MDM/MAM)**
 
 -📫 Feel free to reach me out **ingciberseguridad.m@gmail.com**
 
